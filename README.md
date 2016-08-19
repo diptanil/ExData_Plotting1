@@ -1,3 +1,14 @@
+## Files in the repository
+
+* plot1.R - This file contains the code for generating plot1.png
+* plot1.png - This is the output of plot1.R
+* plot2.R - This file contains the code for generating plot2.png
+* plot2.png - This is the output of plot2.R
+* plot3.R - This file contains the code for generating plot3.png
+* plot3.png - This is the output of plot3.R
+* plot4.R - This file contains the code for generating plot4.png
+* plot4.png - This is the output of plot4.R
+
 ## Introduction
 
 This assignment uses data from
